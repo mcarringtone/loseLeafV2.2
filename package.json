@@ -1,0 +1,22 @@
+{
+  "name": "loseleafv2.2",
+  "version": "1.0.0",
+  "description": "note-taking",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcarringtone/loseLeafV2.2.git"
+  },
+  "author": "Carrington Edmondson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcarringtone/loseLeafV2.2/issues"
+  },
+  "homepage": "https://github.com/mcarringtone/loseLeafV2.2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
